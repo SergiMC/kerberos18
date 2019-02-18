@@ -1,6 +1,6 @@
 #### Kerberos Server
 # @edt Sergi Muñoz Carmona ASIX M06 2018-2019
-
+```
   kadmin.local -q "list_principals"
    28  kadmin.local 
    29  /usr/sbin/krb5kdc 
@@ -26,3 +26,4 @@
    49  klist
    50  kadmin -p pere
    51  history
+```
